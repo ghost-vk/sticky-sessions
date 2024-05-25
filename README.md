@@ -29,3 +29,10 @@
 ### С липкими сессиями
 
 <img src="./example/with_sticky_sess.gif" alt="С липкими сессиями" width="850px">
+
+---
+
+## Демонстрация
+
+Конфигурация для запуска демонстрации лежит в
+[`nginx/docker-compose.yaml`](./nginx/docker-compose.yaml). Код сервера находится в [`code/server`](./code/server).
